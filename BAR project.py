@@ -1,7 +1,7 @@
 ###Author: Nathan Struver
 #Purpose: Analyze Bayesian Adaptive Randomization and compare it to other methods
 #AI and Other Tools: ChatGPT was used for help with ML libraries and adding docstrings(reviewed for correctness).
-    #he rest of the code came from either geeksforgeeks.com, stackoverflow, or youtube.
+#    the rest of the code came from either geeksforgeeks.com, stackoverflow, or youtube.
 
 import numpy as np
 import matplotlib.pyplot as plt
